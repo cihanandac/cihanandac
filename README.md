@@ -23,11 +23,6 @@
 -->
 
 
-
-<div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThzMzEzZG4zMTdnYWF4aXVscWdmamtia216bmFhd3FwMmN0ajY1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-</div>
-
 ###
 
 <div align="center">
