@@ -3,7 +3,7 @@
 I'm a Software Developer based in Berlin, currently at
 [der Freitag](https://www.freitag.de). 
 I enjoy building and fixing things. Working across the 
-entire stack—from infrastructure and APIs to user interfaces.
+entire stack from infrastructure and APIs to user interfaces.
 
 ### 🛠 Tech Stack Overview (Not limited to)
 
